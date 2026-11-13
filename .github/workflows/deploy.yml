@@ -1,0 +1,38 @@
+name: deploy-cloud-run
+
+# Manual deploy to Cloud Run. Requires a GCP project with billing enabled and
+# these repository settings:
+#   vars.GCP_PROJECT_ID, vars.GCP_REGION
+#   secrets.GCP_WORKLOAD_IDENTITY_PROVIDER, secrets.GCP_SERVICE_ACCOUNT
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+env:
+  IMAGE: ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/agentops/agentops-rag-harness:${{ github.sha }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ secrets.GCP_SERVICE_ACCOUNT }}
+      - uses: google-github-actions/setup-gcloud@v2
+      - run: gcloud auth configure-docker "${{ vars.GCP_REGION }}-docker.pkg.dev" --quiet
+      - run: docker build -t "$IMAGE" . && docker push "$IMAGE"
+      - name: Deploy service.yaml with the new image
+        run: |
+          sed "s#REGION-docker.pkg.dev/PROJECT_ID/agentops/agentops-rag-harness:latest#$IMAGE#" deploy/service.yaml > /tmp/service.yaml
+          gcloud run services replace /tmp/service.yaml --region "${{ vars.GCP_REGION }}"
+          gcloud run services add-iam-policy-binding agentops-rag-harness --region "${{ vars.GCP_REGION }}" \
+            --member=allUsers --role=roles/run.invoker
+      - name: Smoke test
+        run: |
+          URL=$(gcloud run services describe agentops-rag-harness --region "${{ vars.GCP_REGION }}" --format 'value(status.url)')
+          curl -fs "$URL/healthz"

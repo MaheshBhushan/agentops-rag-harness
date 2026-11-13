@@ -1,0 +1,51 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Tesseract (figure OCR)
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends tesseract-ocr
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.12"
+      - run: uv sync --frozen
+      - name: Generate synthetic test set from the fixture corpus
+        run: |
+          uv run agentops synth --raw tests/fixtures/corpus --out artifacts/synthetic_qa.jsonl
+          uv run agentops build --raw tests/fixtures/corpus --out artifacts/index
+          uv run agentops eval-retrieval --raw tests/fixtures/corpus --qa artifacts/synthetic_qa.jsonl --out artifacts/retrieval.json
+      - name: Unit, integration and prompt regression tests
+        run: uv run pytest -v
+      - name: End-to-end agent run (MCP + A2A) on the synthetic set
+        run: uv run agentops eval-agent --qa artifacts/synthetic_qa.jsonl --index artifacts/index/structure --out artifacts/agent.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: eval-artifacts
+          path: artifacts/*.json*
+
+  container:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t agentops-rag-harness:ci .
+      - name: Run on the Cloud Run contract ($PORT) and query it
+        run: |
+          docker run -d --name svc -e PORT=9090 -p 9090:9090 --read-only --tmpfs /tmp agentops-rag-harness:ci
+          for i in $(seq 1 60); do curl -fs localhost:9090/healthz && break; sleep 1; done
+          curl -fs -X POST localhost:9090/ask -H 'content-type: application/json' \
+            -d '{"question":"What adverse events were reported?"}' | tee answer.json
+          python3 -c "import json; d=json.load(open('answer.json')); assert d['verdict'] is not None and d['retrieved'], d"
+          curl -fs localhost:9090/reviewer/.well-known/agent-card.json
+          docker logs svc 2>&1 | grep -q '"name": "a2a.review"\|"name":"a2a.review"'
+      - if: always()
+        run: docker logs svc | tail -50; docker rm -f svc

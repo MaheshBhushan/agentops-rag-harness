@@ -1,0 +1,45 @@
+[project]
+name = "agentops-rag-harness"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Koduri Mahesh Bhushan Chowdary", email = "mkoduri73@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "a2a-sdk[http-server]>=1.3.0",
+    "faiss-cpu>=1.16.0",
+    "httpx>=0.28.1",
+    "langchain-core>=1.8.0",
+    "langchain-text-splitters>=1.1.3",
+    "lxml>=6.1.3",
+    "mcp>=1.10",
+    "numpy>=2.5.4",
+    "opentelemetry-api>=1.45.2",
+    "opentelemetry-sdk>=1.45.2",
+    "pillow>=13.0.0",
+    "pytesseract>=0.3.13",
+    "scikit-learn>=1.9.1",
+    "uvicorn>=0.54.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.11.24,<0.12.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "agentops"
+
+[project.scripts]
+agentops = "agentops.cli:main"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "pytest-asyncio>=1.5.0",
+]

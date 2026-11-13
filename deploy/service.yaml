@@ -1,0 +1,38 @@
+# Cloud Run (Knative) service definition.
+# Deploy: gcloud run services replace deploy/service.yaml --region "$REGION"
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: agentops-rag-harness
+  annotations:
+    run.googleapis.com/ingress: all
+spec:
+  template:
+    metadata:
+      annotations:
+        autoscaling.knative.dev/minScale: "0"
+        autoscaling.knative.dev/maxScale: "3"
+        run.googleapis.com/startup-cpu-boost: "true"
+    spec:
+      containerConcurrency: 20
+      timeoutSeconds: 60
+      containers:
+        - image: REGION-docker.pkg.dev/PROJECT_ID/agentops/agentops-rag-harness:latest
+          ports:
+            - name: http1
+              containerPort: 8080
+          env:
+            - name: AGENTOPS_LLM
+              value: offline
+          resources:
+            limits:
+              cpu: "1"
+              memory: 1Gi
+          startupProbe:
+            httpGet:
+              path: /healthz
+            periodSeconds: 2
+            failureThreshold: 30
+          livenessProbe:
+            httpGet:
+              path: /healthz
