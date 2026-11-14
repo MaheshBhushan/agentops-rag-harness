@@ -173,6 +173,13 @@ curl -s -X POST localhost:18093/ask -H 'content-type: application/json' \
   -d '{"question":"What were the baseline characteristics of the lung ultrasound fluid management groups?"}'
 ```
 
+Observed on 2026-11-14 with the image built from the fixture corpus: `/healthz`
+returned `ok`, `/ask` returned an answer citing `PMC13656653#structure-5` and
+`PMC13656653#structure-0` with the reviewer verdict `approved`, the agent card
+was served at `/reviewer/.well-known/agent-card.json`, the container logs held
+one `agent.ask`, `mcp.call_tool search_chunks`, `llm.chat answer` and
+`a2a.review` span plus a token record, and memory use was 246 MiB.
+
 ## Limitations
 
 - **Not deployed to Cloud Run.** Billing is disabled on the available GCP
