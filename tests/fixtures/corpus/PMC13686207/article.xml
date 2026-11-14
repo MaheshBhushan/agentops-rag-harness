@@ -1,0 +1,545 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Int Soc Sports Nutr</journal-id><journal-id journal-id-type="iso-abbrev">J Int Soc Sports Nutr</journal-id><journal-id journal-id-type="pmc-domain-id">521</journal-id><journal-id journal-id-type="pmc-domain">jissn</journal-id><journal-id journal-id-type="nlm-id">101234168</journal-id><journal-title-group><journal-title>Journal of the International Society of Sports Nutrition</journal-title></journal-title-group><issn pub-type="epub">1550-2783</issn><?publisher_abbrev taylorfran?><publisher><publisher-name>Taylor &amp; Francis</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13686207</article-id><article-id pub-id-type="pmcid-ver">PMC13686207.1</article-id><article-id pub-id-type="pmcaid">13686207</article-id><article-id pub-id-type="pmcaiid">13686207</article-id><article-id pub-id-type="pmid">42897977</article-id><article-id pub-id-type="doi">10.1080/15502783.2026.2746899</article-id><article-id pub-id-type="publisher-id">2746899</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="VoR" vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="Version of Record">Version of Record</article-version></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="article-type"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Pre-sleep milk-derived proteins do not impair sleep or recovery in elite female athletes</article-title><alt-title alt-title-type="left-running-head">K. G. P. PATERSON ET AL.</alt-title><alt-title alt-title-type="right-running-head">JOURNAL OF THE INTERNATIONAL SOCIETY OF SPORTS NUTRITION</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Paterson</surname><given-names initials="KGP">Kieran G. P.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><xref rid="aff1" ref-type="aff">a</xref><xref rid="aff2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Griest</surname><given-names initials="TD">Timothy D.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="aff1" ref-type="aff">a</xref><xref rid="aff2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Angeles</surname><given-names initials="E">Elisa</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="aff2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Fenner</surname><given-names initials="SP">Sadio P.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role><xref rid="aff1" ref-type="aff">a</xref><xref rid="aff2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Eberhardt</surname><given-names initials="HK">Hannah K.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><xref rid="aff1" ref-type="aff">a</xref><xref rid="aff2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>McKay</surname><given-names initials="CR">Connor R.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><xref rid="aff1" ref-type="aff">a</xref><xref rid="aff2" ref-type="aff">b</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Helms</surname><given-names initials="KLW">Kendall L. W.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="aff1" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Calderon</surname><given-names initials="A">Andelino</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="aff1" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Vukovich</surname><given-names initials="MD">Matthew D.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><xref rid="aff3" ref-type="aff">c</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1939-7656</contrib-id><name name-style="western"><surname>Ormsbee</surname><given-names initials="MJ">Michael J.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role><xref rid="aff1" ref-type="aff">a</xref><xref rid="aff2" ref-type="aff">b</xref><xref rid="aff4" ref-type="aff">d</xref><xref rid="cor0001" ref-type="corresp">*</xref></contrib><aff id="aff1">
+<label>a</label>
+<institution>Department of Health, Nutrition, and Food Sciences, Florida State University</institution>, <city>Tallahassee</city>, <state>FL</state>, <country>USA</country>
+</aff><aff id="aff2">
+<label>b</label>
+<institution>Institute of Sports Sciences &amp; Medicine, Florida State University</institution>, <city>Tallahassee</city>, <state>FL</state>, <country>USA</country>
+</aff><aff id="aff3">
+<label>c</label>
+<institution>College of Education and Human Sciences, South Dakota State University</institution>, <city>Brookings</city>, <state>SD</state>, <country>USA</country>
+</aff><aff id="aff4">
+<label>d</label>
+<institution>School of Health Sciences, Discipline of Biokinetics, Exercise and Leisure Sciences, University of KwaZulu-Natal</institution>, <city>Durban</city>, <country>South Africa</country>
+</aff></contrib-group><author-notes><corresp id="cor0001">
+<bold>CONTACT</bold> Michael J. Ormsbee, PhD <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mormsbee@fsu.edu">mormsbee@fsu.edu</email>
+<institution>Institute of Sports Sciences and Medicine, Florida State University</institution>, <city>Tallahassee</city>, <state>FL</state>, <country>USA</country>
+</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>20</day><month>10</month><year>2026</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2026</year></pub-date><volume>23</volume><issue>1</issue><issue-id pub-id-type="pmc-issue-id">503015</issue-id><elocation-id>2746899</elocation-id><pub-history><event event-type="pmc-release"><date><day>20</day><month>10</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>22</day><month>10</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-10-22 10:10:52.530"><day>22</day><month>10</month><year>2026</year></date></event><event event-type="received"><date><day>2</day><month>6</month><year>2026</year></date></event><event event-type="accepted"><date><day>5</day><month>10</month><year>2026</year></date></event><event event-type="tagger"><event-desc>MPS</event-desc><date><day>19</day><month>10</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© 2026 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group.</copyright-statement><copyright-year>2026</copyright-year><copyright-holder>The Author(s)</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="RSSN_23_2746899.pdf"><?pdf-name RSSN_23_2746899.pdf?><?pdf-size 926075?><?pdf-md5 7f9ba76e8a1e4d78bc211822d56a2db3?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:dc70/13686207/7f9ba76e8a1e/RSSN_23_2746899.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="RSSN_23_2746899.pdf"/><abstract><title>Abstract</title><sec disp-level="1" id="s0001"><title>Background</title><p>Sleep is essential for athlete recovery and performance, yet athletes frequently experience restricted or poor-quality sleep. Pre-sleep feeding (PSF) has emerged as a strategy to support recovery, but randomized, double-blinded, crossover trials comparing PSF macronutrient options on objective and subjective sleep outcomes in elite female athletes remain limited.</p></sec><sec disp-level="1" id="s0002"><title>Methods</title><p>Twenty-five National Collegiate Athletic Association (NCAA) Division I female athletes (18–25 years old) were recruited; 21 completed the trial. In a randomized, double-blinded, placebo controlled, crossover design conducted over 4–8 weeks, participants consumed four treatments for three consecutive nights each: 40 g casein protein (CAS; 160 kcal), 40 g <italic toggle="yes">α</italic>-lactalbumin protein (ALA; 160 kcal), 40 g carbohydrate (CHO; 160 kcal), and 40g of a placebo (PLA; 5 kcal), with a minimum three-day washout between conditions. Supplements were consumed ~2 h after the final meal and ~30 min before bedtime as the last caloric intake of the day. Objective outcomes were obtained from the WHOOP 4.0 device (total sleep time (TST), sleep onset latency (SOL), sleep efficiency (SE), resting heart rate (RHR), and heart rate variability (HRV)). Subjective outcomes were assessed each morning via questionnaires (subjective sleep quality (SSQ), subjective sleep onset latency (SSOL), and subjective recovery (SREC)). Nocturnal interstitial glucose was assessed via blinded continuous glucose monitoring (CGM) in a subset (<italic toggle="yes">n</italic> = 6). Sleep and recovery variables were analyzed using one-way repeated-measures analysis of variance (ANOVA) to evaluate treatment effects across the four supplementation conditions. For CGM data, a two-way repeated-measures ANOVA was used to evaluate main effects of treatment and time, as well as the treatment × time interaction. Tukey’s post hoc testing was used with significance set at <italic toggle="yes">p</italic> &lt; 0.05.</p></sec><sec disp-level="1" id="s0003"><title>Results</title><p>No significant treatment effects were observed for TST, SOL, SE, RHR, or HRV (<italic toggle="yes">p</italic> &gt; 0.05). TST ranged from 7.47–7.62 h, SE from 91.5–92.0%, RHR from 53.5–54.1 bpm, and HRV from 98.2–103.9 ms across conditions. No significant treatment effects were detected for SSQ, SSOL, or SREC (<italic toggle="yes">p</italic> &gt; 0.05); SSQ ranged from 69–75%, SSOL from 16–20 min, and SREC from 61–66%. In the CGM sub-analysis, a main effect of time was observed for nocturnal glucose (<italic toggle="yes">p</italic> = 0.008), but no differences among treatments (<italic toggle="yes">p</italic> = 0.187) or a time × treatment interaction (<italic toggle="yes">p</italic> = 0.550) were detected.</p></sec><sec disp-level="1" id="s0004"><title>Conclusions</title><p>In NCAA Division I female athletes, three consecutive nights of pre-sleep ingestion of CAS, ALA, or CHO did not impair objective or subjective measures of sleep or recovery compared with PLA. These findings demonstrate that pre-sleep feeding, regardless of macronutrient type, can be incorporated without negatively affecting sleep quality or recovery metrics.</p></sec><sec disp-level="1" id="s0005"><title>Trial Registration</title><p>ClinicalTrials.gov (Identifier: STUDY00004409).</p></sec></abstract><abstract abstract-type="graphical"><title>Graphical abstract</title><fig position="anchor" id="uf0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="color" position="float" orientation="portrait" xlink:href="RSSN_A_2746899_UF0001_C.webp"><?image-name RSSN_A_2746899_UF0001_C.webp?><?image-size 18118?><?image-md5 ba0a19846d6eda5467958684e4a71ce6?><?image-image-server-status NEVER_LOAD?><?image-original-height 366?><?image-original-width 525?><?image-scaled-height 366?><?image-scaled-width 525?><?image-cloudpmc-urn urn:cdn:blobs/dc70/13686207/ba0a19846d6e/RSSN_A_2746899_UF0001_C.webp?><?thumb-name RSSN_A_2746899_UF0001_C.gif?><?thumb-size 8627?><?thumb-md5 f2cf8bf7b7fb5e172c9f685215b03257?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 139?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/dc70/13686207/f2cf8bf7b7fb/RSSN_A_2746899_UF0001_C.gif?></graphic></fig></abstract><kwd-group kwd-group-type="author"><title>Keywords</title><kwd>Pre-sleep feeding</kwd><kwd>macronutrient timing</kwd><kwd>female athletes</kwd><kwd>sleep quality</kwd><kwd>protein supplementation</kwd><kwd>heart rate variability</kwd></kwd-group><support-group><funding-group><award-group><funding-source>
+<institution-wrap><institution>National Dairy Council</institution><institution-id institution-id-type="open-funder-registry">10.13039/100032591</institution-id></institution-wrap>
+</funding-source></award-group><award-group><funding-source>
+<institution-wrap><institution>Acuts Nutrition</institution></institution-wrap>
+</funding-source></award-group><funding-statement>This study was co-funded by Actus Nutrition and the National Dairy Council.</funding-statement></funding-group></support-group><counts><fig-count count="2"/><table-count count="3"/><equation-count count="0"/><ref-count count="38"/><page-count count="10"/><word-count count="3490"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" disp-level="1" id="s0006"><label>1.</label><title>Introduction</title><p>Sleep is essential for athlete recovery and performance, yet athletes frequently experience restricted or poor-quality sleep due to late training, travel, and lifestyle demands [<xref rid="cit0001" ref-type="bibr">1–4</xref>]. Consensus recommendations further highlight that athletes may require 8–10 hours of sleep per night, exceeding the typical 7–9 hours recommended for the general adult population, although many still fall short of these needs [<xref rid="cit0005" ref-type="bibr">5</xref>,<xref rid="cit0006" ref-type="bibr">6</xref>].</p><p>A growing body of work links diet composition and timing with sleep physiology. For example, high-glycemic carbohydrate meals consumed several hours before bedtime can shorten sleep-onset latency, though findings remain inconsistent across studies [<xref rid="cit0007" ref-type="bibr">7–9</xref>]. In team sport athletes, habitual nutrient intake and evening meal patterns have been positively associated with greater sleep efficiency and duration [<xref rid="cit0010" ref-type="bibr">10</xref>,<xref rid="cit0011" ref-type="bibr">11</xref>]. In addition, athletes may be at a disadvantage if they do not eat following an exhaustive evening match or game, particularly when they must compete again within eight hours [<xref rid="cit0012" ref-type="bibr">12</xref>]. These observations suggest that nutrition may influence sleep, but controlled trials directly testing this relationship in athletes remain limited.</p><p>Pre-sleep feeding (PSF), defined as intentional ingestion of nutrients approximately two hours after dinner and ~30 minutes before bedtime, is one strategy used to support recovery. While the public’s perception of late-night eating as detrimental, especially for weight management and sleep quality, remains, evidence suggests that context is key to interpreting the data [<xref rid="cit0013" ref-type="bibr">13–15</xref>]. When protein-centric, PSF may provide a final opportunity to stimulate muscle protein synthesis (MPS) and support overnight recovery without impairing sleep [<xref rid="cit0016" ref-type="bibr">16–18</xref>]. Our group and others have shown that PSF of protein can influence resting energy expenditure, hunger, and metabolic markers without compromising exercise performance or recovery in active populations [<xref rid="cit0019" ref-type="bibr">19–21</xref>]. Importantly, a recent field study in NCAA Division I female soccer players reported that higher pre-sleep energy and protein intake did not influence recovery metrics such as heart rate variability and resting heart rate as measured by a wearable device, or measures of subjective recovery [<xref rid="cit0022" ref-type="bibr">22</xref>].</p><p>Within protein-based PSF, <italic toggle="yes">α</italic>-lactalbumin (ALA) has drawn interest due to its high tryptophan content, which may enhance serotonin and melatonin production and reduce sleep-onset latency [<xref rid="cit0023" ref-type="bibr">23</xref>]. Indeed, two trials have shown improvements in sleep architecture and next-morning function in female rugby athletes when ALA was consumed prior to sleep [<xref rid="cit0024" ref-type="bibr">24</xref>,<xref rid="cit0025" ref-type="bibr">25</xref>], whereas others have reported no benefit of ALA compared with energy-matched comparators in athletes with sleep difficulties [<xref rid="cit0026" ref-type="bibr">26</xref>]. However, the heterogeneity of study designs and populations studied limits the ability to draw strong conclusions in elite sport [<xref rid="cit0027" ref-type="bibr">27–30</xref>].</p><p>Despite these developments, there remains a lack of randomized, double-blinded, crossover trials directly comparing distinct PSF macronutrient options on both objective and subjective sleep outcomes in elite female athletes. This is important because female athletes may have unique physiological and hormonal influences on sleep, including menstrual-cycle-related autonomic differences [<xref rid="cit0031" ref-type="bibr">31</xref>,<xref rid="cit0032" ref-type="bibr">32</xref>].</p><p>Therefore, the purpose of this study was to examine the effects of three consecutive nights of pre-sleep ingestion of casein protein (CAS), <italic toggle="yes">α</italic>-lactalbumin protein (ALA), carbohydrate (CHO), and a placebo (PLA) on sleep and recovery outcomes in NCAA Division I female athletes. We hypothesized that ALA would elicit superior sleep and recovery outcomes compared with CAS and CHO, and that all nutrient interventions would outperform PLA.</p></sec><sec disp-level="1" id="s0007"><label>2.</label><title>Methods</title><sec disp-level="2" id="s0007-s2001"><label>2.1.</label><title>Participants</title><p>Twenty-five female collegiate athletes (age: 18–25 years) were recruited from National Collegiate Athletic Association (NCAA) Division I teams at Florida State University. All participants wore a WHOOP 4.0 device (WHOOP Boston, MA, USA) continuously on their wrist for at least three weeks prior to enrollment as part of team monitoring programs. Exclusion criteria included diagnosed sleep disorders, disordered eating, or known allergies to any study supplement. Participants represented multiple sports, including women’s soccer (<italic toggle="yes">n</italic> = 12), softball (<italic toggle="yes">n</italic> = 4), and tennis (<italic toggle="yes">n</italic> = 5), reflecting varied training demands typical of NCAA Division I athletes. Participants were considered elite athletes according to the classification framework of McKay et al. [<xref rid="cit0033" ref-type="bibr">33</xref>], which defines ‘elite/international level’ as Tier 4 within a six-tier model of athlete caliber [<xref rid="cit0033" ref-type="bibr">33</xref>].</p><p>Menstrual cycle regularity and contraceptive use were self-reported using a study-specific questionnaire. Participants classified their cycles as regular (occurring every 21–35 days or ≥5 periods in the last 6 months) or irregular (cycles &lt;21 days, &gt;35 days, or fewer than 6 periods per year). These definitions align with established criteria for eumenorrheic and irregular cycles in female athletes [<xref rid="cit0034" ref-type="bibr">34</xref>].</p><p>Written informed consent was obtained from all participants before participation. The study was approved by the Florida State University Institutional Review Board (STUDY00000058) and registered at ClinicalTrials.gov (Identifier: STUDY00004409).</p></sec><sec disp-level="2" id="s0007-s2002"><label>2.2.</label><title>Study design and procedures</title><p>A randomized, double-blinded, placebo-controlled, crossover design was used over a 4–8-week period. The variable total duration reflected differences in scheduling between athletic teams and washout requirements. Each participant consumed four treatments in a random order: 40 g of casein protein (CAS; 160 kcal), 40 g of <italic toggle="yes">α</italic>-lactalbumin protein (ALA; 160 kcal), 40 g of carbohydrate (CHO; 160 kcal), and a placebo (PLA; 5 kcal). The PLA contained flavoring agents, non-nutritive sweeteners (sucralose, stevia Reb A), organic acids (citric and malic acid), and natural colorants (spirulina and red beet powder). The treatment order was determined using a computer-generated random sequence. All supplements were pre-packaged, blinded, and coded by Actus Nutrition (Eden Prairie, MN, USA) to ensure similar appearance, taste, and texture. Each condition consisted of three consecutive nights of supplementation followed by a minimum three-day washout period.</p><p>Following consent, participants completed baseline screening questionnaires regarding medical history, menstrual status, food history, and the Athlete-Specific Sleep Questionnaire (ASSQ). Participants arrived at the Institute of Sports Sciences and Medicine (ISSM) at least three hours fasted, abstained from caffeine, and avoided high-intensity exercise for 12 hours before their initial visit. At this visit, participants underwent dual-energy X-ray absorptiometry (DXA; Hologic Inc., Bedford, MA, USA) to assess body composition and bone mineral density.</p></sec><sec disp-level="2" id="s0007-s2003"><label>2.3.</label><title>Testing procedures</title><p>To assess for nocturnal interstitial glucose, Abbott Freestyle Libre Pro continuous glucose monitors (CGM) (Abbott Diabetes Care, Alameda, CA, USA) were applied to the posterior, nondominant upper arm at the start of each treatment period, approximately two days before treatment to allow sensor stabilization and resolution of local tissue irritation from insertion, thereby improving accuracy during data collection, and removed following each treatment. Sensor adhesion was monitored throughout each treatment period, although the athletic demands of training and competition occasionally resulted in premature detachment or loss of devices. Participants then received their assigned treatment with written and verbal instructions for preparation and timing. Supplements were provided as pre-portioned powdered doses in sealed, opaque bottles, each containing a fill line corresponding to 237 mL of water when mixed. Participants consumed the assigned supplement under free-living conditions.</p><p>Each treatment night, participants recorded all daytime food and beverage intake using a photographic food and beverage log that was sent electronically at 21:00. Logs excluded the intervention supplement, as participants were blinded to their assigned condition. Participants consumed their assigned supplement approximately two hours after their final meal and 30 minutes before bedtime as the last caloric intake of the day, with no additional foods or beverages co-ingested. Participants slept in their usual environments while continuously wearing the WHOOP 4.0 device. Compliance with supplementation and protocol timing was verified via supplement logs and CGM data. The procedure was repeated for three consecutive nights during each treatment period.</p></sec><sec disp-level="2" id="s0007-s2004"><label>2.4.</label><title>Sleep and recovery assessments</title><p>Upon waking after each treatment night, participants completed a subjective sleep questionnaire to assess perceived sleep quality and quantity. This was delivered electronically at 04:00 each morning to ensure the link was ready upon waking up. Participants were instructed to complete the SSQ within 30–60 minutes of waking.</p><p>On the morning after the third treatment night (Day 4), research staff removed the CGM devices and downloaded the data. Participants completed a brief questionnaire assessing menstrual-cycle day and perceived supplement identity to verify treatment blinding. Testing sessions were not standardized by menstrual cycle phase to ensure timely completion of all treatments within the competitive season.</p><p>A minimum three-day washout period followed each condition before the next treatment phase. This process was repeated until all four interventions (CAS, ALA, CHO, PLA) were completed in randomized order.</p></sec><sec disp-level="2" id="s0007-s2005"><label>2.5.</label><title>Outcome measures</title><p>Objective sleep and recovery outcomes were obtained from the WHOOP 4.0 device and included total sleep time (TST), sleep onset latency (SOL), sleep efficiency (SE), resting heart rate (RHR), and heart rate variability (HRV). Subjective outcomes were collected each morning through the electronic subjective sleep questionnaire and included subjective sleep quality (SSQ), subjective sleep onset latency (SSOL), and subjective recovery (SREC).</p><p>Dietary intake on intervention days was recorded using the photographic food and beverage log and analyzed in the Automated Self-Administered 24-Hour Dietary Assessment Tool (ASA24; National Cancer Institute, Bethesda, MD, USA) by trained research staff.</p><p>At the end of each treatment period, participants reported their current menstrual-cycle day and the supplement they believed they had consumed that week to assess treatment blinding accuracy.</p></sec><sec disp-level="2" id="s0007-s2006"><label>2.6.</label><title>Statistical analysis</title><p>Sleep and recovery variables were analyzed using one-way repeated-measures analysis of variance (ANOVA) to evaluate treatment effects across the four conditions. Continuous glucose monitoring outcomes were analyzed using two-way repeated-measures ANOVA to evaluate main effects of treatment and time, as well as the treatment × time interaction. Where appropriate, Tukey’s post hoc tests were performed. All analyzes were conducted using R (version 4.3.1; R Foundation for Statistical Computing, Vienna, Austria). Results are presented as mean ± standard deviation (SD), along with Cohen’s d effect sizes and 95% confidence intervals. Statistical significance was set at <italic toggle="yes">p</italic> &lt; 0.05. An a priori power analysis (G*Power 3.1), based on previously reported effect sizes for sleep onset latency, indicated that 18 participants were required to achieve 80% power at <italic toggle="yes">α</italic> = 0.05. To account for potential attrition, 25 athletes were recruited.</p></sec></sec><sec sec-type="results" disp-level="1" id="s0008"><label>3.</label><title>Results</title><p>Twenty-one female athletes completed the trial. Participant characteristics are presented in <xref rid="t0001" ref-type="table">Table 1</xref>. Two participants self-reported using sleep aids on an average of 5–7 nights per week. Eight participants (38%) were using hormonal contraception (HC), and thirteen were not (62%). Of those using HC, three reported oral contraceptive use, three used an intrauterine device (IUD), and two used a subdermal implant. Self-reported menstrual cycle regularity indicated that eight participants had irregular cycles and thirteen had regular cycles, according to the definitions above.</p><table-wrap position="float" id="t0001" orientation="portrait"><label>Table 1.</label><caption><p>Participant characteristics at baseline (<italic toggle="yes">n</italic> = 21 NCAA Division I female athletes).</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/></colgroup><thead><tr><th align="left" colspan="1" rowspan="1">Variable</th><th align="center" colspan="1" rowspan="1">Mean ± SD</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">Age (years)</td><td align="center" colspan="1" rowspan="1">21 ± 2</td></tr><tr><td align="left" colspan="1" rowspan="1">Height (m)</td><td align="center" colspan="1" rowspan="1">1.7 ± 0.1</td></tr><tr><td align="left" colspan="1" rowspan="1">Body mass (kg)</td><td align="center" colspan="1" rowspan="1">66.8 ± 11.9</td></tr><tr><td align="left" colspan="1" rowspan="1">Body fat (%)</td><td align="center" colspan="1" rowspan="1">27.3 ± 4.6</td></tr><tr><td align="left" colspan="1" rowspan="1">Body Mass Index (kg/m<sup>2</sup>)</td><td align="center" colspan="1" rowspan="1">23.3 ± 3.0</td></tr><tr><td align="left" colspan="1" rowspan="1">Fat Free Mass Index (kg/m<sup>2</sup>)</td><td align="center" colspan="1" rowspan="1">16.9 ± 1.7</td></tr><tr><td align="left" colspan="1" rowspan="1">Sport distribution (<italic toggle="yes">n</italic>)</td><td align="center" colspan="1" rowspan="1">Soccer = 12; Softball = 4; Tennis = 5</td></tr></tbody></table></table-wrap><sec disp-level="2" id="s0008-s2001"><label>3.1.</label><title>Sleep and recovery metrics</title><p>Objective sleep and recovery measures assessed via the WHOOP 4.0 device are shown in <xref rid="t0002" ref-type="table">Table 2</xref>. No significant treatment effects were observed for total sleep time (TST), sleep onset latency (SOL), sleep efficiency (SE), resting heart rate (RHR), or heart rate variability (HRV) <italic toggle="yes">(p</italic> &gt; 0.05). TST was not different across treatments, with values ranging from 7.47–7.62 h. SE remained consistently high (91.5–92.0%), while RHR (53.5–54.1 bpm) and HRV (98.2–103.9 ms) also showed no significant differences among conditions. RHR and HRV were averaged from nightly WHOOP-derived sleep values, reflecting overnight autonomic recovery rather than morning spot measures.</p><table-wrap position="float" id="t0002" orientation="portrait"><label>Table 2.</label><caption><p>Objective sleep and recovery outcomes (WHOOP 4.0) across treatments.</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="left" colspan="1" rowspan="1">Variable</th><th align="center" colspan="1" rowspan="1">ALA</th><th align="center" colspan="1" rowspan="1">CAS</th><th align="center" colspan="1" rowspan="1">CHO</th><th align="center" colspan="1" rowspan="1">PLA</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">Total sleep time (hours)</td><td align="center" colspan="1" rowspan="1">7.53 ± 0.89</td><td align="center" colspan="1" rowspan="1">7.47 ± 1.14</td><td align="center" colspan="1" rowspan="1">7.62 ± 1.06</td><td align="center" colspan="1" rowspan="1">7.52 ± 1.11</td></tr><tr><td align="left" colspan="1" rowspan="1">Sleep onset latency (min)</td><td align="center" colspan="1" rowspan="1">2.27 ± 3.76</td><td align="center" colspan="1" rowspan="1">2.52 ± 4.19</td><td align="center" colspan="1" rowspan="1">1.96 ± 3.21</td><td align="center" colspan="1" rowspan="1">3.29 ± 4.65</td></tr><tr><td align="left" colspan="1" rowspan="1">Sleep efficiency (%)</td><td align="center" colspan="1" rowspan="1">92.02 ± 2.98</td><td align="center" colspan="1" rowspan="1">91.80 ± 3.16</td><td align="center" colspan="1" rowspan="1">91.50 ± 4.72</td><td align="center" colspan="1" rowspan="1">91.56 ± 3.21</td></tr><tr><td align="left" colspan="1" rowspan="1">Resting heart rate (bpm)</td><td align="center" colspan="1" rowspan="1">53.54 ± 6.19</td><td align="center" colspan="1" rowspan="1">53.71 ± 5.42</td><td align="center" colspan="1" rowspan="1">54.05 ± 6.66</td><td align="center" colspan="1" rowspan="1">53.71 ± 6.55</td></tr><tr><td align="left" colspan="1" rowspan="1">Heart rate variability (ms)</td><td align="center" colspan="1" rowspan="1">103.91 ± 31.48</td><td align="center" colspan="1" rowspan="1">103.05 ± 34.60</td><td align="center" colspan="1" rowspan="1">99.14 ± 34.08</td><td align="center" colspan="1" rowspan="1">98.24 ± 34.01</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><p>Note: Data are presented as mean ± standard deviation.</p></fn><fn id="t2fn2"><p>Abbreviations: ⍺-Lactalbumin (ALA), Casein (CAS), Carbohydrate (CHO), Placebo (PLA), Beats Per Minute (BPM), Milliseconds (MS).</p></fn></table-wrap-foot></table-wrap><p>Subjective sleep outcomes, including subjective sleep quality (SSQ), subjective sleep onset latency (SSOL), and subjective recovery (SREC), are presented in <xref rid="t0003" ref-type="table">Table 3</xref>. No significant treatment effects were detected for any subjective measure (<italic toggle="yes">p</italic> &gt; 0.05). SSQ scores did not differ among treatments, ranging from 69% to 75%. SSOL values were similar across conditions from 16 to 20 min, and SREC scores ranged from 61% to 66%, with no significant differences between treatments.</p><table-wrap position="float" id="t0003" orientation="portrait"><label>Table 3.</label><caption><p>Subjective sleep and recovery outcomes across treatments.</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="left" colspan="1" rowspan="1">Variable</th><th align="center" colspan="1" rowspan="1">ALA</th><th align="center" colspan="1" rowspan="1">CAS</th><th align="center" colspan="1" rowspan="1">CHO</th><th align="center" colspan="1" rowspan="1">PLA</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">Subjective sleep quality (%)</td><td align="center" colspan="1" rowspan="1">72.92 ± 15.39</td><td align="center" colspan="1" rowspan="1">69.12 ± 16.66</td><td align="center" colspan="1" rowspan="1">74.88 ± 17.81</td><td align="center" colspan="1" rowspan="1">71.31 ± 20.60</td></tr><tr><td align="left" colspan="1" rowspan="1">Subjective sleep onset latency (min)</td><td align="center" colspan="1" rowspan="1">20.21 ± 16.83</td><td align="center" colspan="1" rowspan="1">18.08 ± 18.71</td><td align="center" colspan="1" rowspan="1">16.45 ± 12.28</td><td align="center" colspan="1" rowspan="1">16.62 ± 14.08</td></tr><tr><td align="left" colspan="1" rowspan="1">Subjective recovery (%)</td><td align="center" colspan="1" rowspan="1">64.73 ± 17.06</td><td align="center" colspan="1" rowspan="1">60.93 ± 19.76</td><td align="center" colspan="1" rowspan="1">65.64 ± 19.22</td><td align="center" colspan="1" rowspan="1">65.93 ± 20.40</td></tr></tbody></table><table-wrap-foot><fn id="t3fn1"><p>Note: Data are presented as mean ± standard deviation.</p></fn><fn id="t3fn2"><p>Abbreviations: ⍺-Lactalbumin (ALA), Casein (CAS), Carbohydrate (CHO), Placebo (PLA).</p></fn></table-wrap-foot></table-wrap></sec><sec disp-level="2" id="s0008-s2002"><label>3.2.</label><title>Continuous glucose monitoring</title><p>Complete continuous glucose monitoring (CGM) data were available for six of the twenty-one participants across all four treatments, permitting a sub-analysis of nocturnal glucose responses. The reduced CGM sample was primarily due to sensor loss during training and competition activities, as frequent clothing changes, contact exposures, and diving movements in certain sport positions led to premature detachment or device removal. As a result, some individual treatment periods lacked valid recordings, preventing full four-condition comparisons. CGM data were used to verify supplement compliance and to evaluate overnight glucose trends. A significant main effect of time was observed for nocturnal glucose (<italic toggle="yes">p</italic> = 0.008), reflecting the expected physiological rise in glycemia before sleep, followed by a gradual decline across the night (<xref rid="f0001" ref-type="fig">Figure 1</xref>). However, no significant differences were detected among treatments (<italic toggle="yes">p</italic> = 0.187), nor was there a significant time × treatment interaction (<italic toggle="yes">p</italic> = 0.550), indicating that pre-sleep macronutrient type did not alter overnight glucose patterns. The average next-morning glucose concentrations remained within the normal physiological range (~85–95 mg/dL) across all treatments (<italic toggle="yes">p</italic> = 0.58; <xref rid="f0002" ref-type="fig">Figure 2</xref>).</p><fig position="float" id="f0001" orientation="portrait"><label>Figure 1.</label><caption><p>Nocturnal blood glucose dynamics, <bold>for the CGM subsample (<italic toggle="yes">n</italic> = 6)</bold>, across all 4 treatments from 60 minutes before and 105 minutes post objective sleep time via WHOOP 4.0 device. There was a significant effect of time for nocturnal blood glucose<bold>, but no effect of condition.</bold>
+</p></caption><alt-text>A line graph shows blood glucose levels over time for four treatments, with one treatment consistently higher than the.</alt-text><long-desc>A line graph shows blood glucose levels in milligrams per deciliter over time in minutes for four treatments: PLA, CHO, CAS, and ALA. The horizontal axis ranges from minus 60 to plus 105 minutes, with a central point labeled Sleep. The vertical axis ranges from 50 to 150 milligrams per deciliter. The CHO treatment line is consistently higher than the other three, starting around 117 milligrams per deciliter at minus 60 minutes, peaking slightly at minus 45 minutes, and then gradually decreasing to approximately 102 milligrams per deciliter at plus 105 minutes. The PLA, CAS, and ALA treatment lines are clustered together, starting between 100 and 103 milligrams per deciliter at minus 60 minutes and showing a slight downward trend to between 94 and 96 milligrams per deciliter at plus 105 minutes. All data points include error bars. Statistical values are printed at the top: Time P equals 0.008, Condition P equals 0.19, and Time times Condition P equals 0.55.</long-desc><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="color" position="float" orientation="portrait" xlink:href="RSSN_A_2746899_F0001_C.webp"><?image-name RSSN_A_2746899_F0001_C.webp?><?image-size 44880?><?image-md5 ccb6b7a67484a0139897670e6a0dd43f?><?image-image-server-status NEED_LOADING?><?image-original-height 813?><?image-original-width 1500?><?image-scaled-height 813?><?image-scaled-width 1500?><?image-cloudpmc-urn urn:cdn:blobs/dc70/13686207/ccb6b7a67484/RSSN_A_2746899_F0001_C.webp?><?thumb-name RSSN_A_2746899_F0001_C.gif?><?thumb-size 6448?><?thumb-md5 e843096e112a7f6a799946669576d171?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 108?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/dc70/13686207/e843096e112a/RSSN_A_2746899_F0001_C.gif?></graphic></fig><fig position="float" id="f0002" orientation="portrait"><label>Figure 2.</label><caption><p>Average next morning blood glucose values <bold>for the CGM subsample (<italic toggle="yes">n</italic> = 6).</bold> There was no difference in morning blood glucose between conditions at reported wake time.</p></caption><alt-text>Bar graph with individual data points shows blood glucose values for four conditions: PLA, CHO, CAS, and ALA. P equals 0.58.</alt-text><long-desc>A bar graph with individual data points shows blood glucose values for four conditions: PLA, CHO, CAS, and ALA. The vertical axis is labeled Blood Glucose milligrams per deciliter and ranges from 50 to 150. The horizontal axis lists the four conditions. Each condition has a bar with a mean value printed inside: PLA is 87, CHO is 92, CAS is 89, and ALA is 92. Individual data points are plotted as circles connected by lines across the conditions. The data points show variability within each condition, with values ranging from approximately 65 to 115 milligrams per deciliter. The lines connecting the points show different trends for each individual across the conditions. A P value of 0.58 is printed at the top of the graph.</long-desc><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="color" position="float" orientation="portrait" xlink:href="RSSN_A_2746899_F0002_C.webp"><?image-name RSSN_A_2746899_F0002_C.webp?><?image-size 42754?><?image-md5 8b882a8a2482b1f6118d7849e27ae922?><?image-image-server-status NEED_LOADING?><?image-original-height 1274?><?image-original-width 1500?><?image-scaled-height 1274?><?image-scaled-width 1500?><?image-cloudpmc-urn urn:cdn:blobs/dc70/13686207/8b882a8a2482/RSSN_A_2746899_F0002_C.webp?><?thumb-name RSSN_A_2746899_F0002_C.gif?><?thumb-size 9969?><?thumb-md5 1ac73441d33b615af86ad09e4d0a80be?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 170?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/dc70/13686207/1ac73441d33b/RSSN_A_2746899_F0002_C.gif?></graphic></fig></sec><sec disp-level="2" id="s0008-s2003"><label>3.3.</label><title>Dietary intake analysis</title><p>Participants who completed ≥75% (9/12) of the assigned food logs were included in the dietary intake analysis. Seventeen participants met this criterion, yielding 195 analyzable daily logs. Reported values reflect habitual daily intake and exclude study-provided supplements. Accordingly, participants in the CAS and ALA treatments consumed an additional 40 g of protein (160 kcal), those in the CHO treatment consumed an additional 40 g of carbohydrate (160 kcal), and the PLA contained no protein or carbohydrate and contributed 5 kcal from minor ingredients (non-nutritive sweeteners, organic acids, and natural colorants). Average daily energy intake (excluding supplements) was 2,040 ± 463 kcal. Mean macronutrient intakes were 107 ± 28 g protein (1.7 ± 0.5 g·kg<sup>−1</sup>), 215 ± 49 g carbohydrate (3.2 ± 0.8 g·kg<sup>−1</sup>), and 85 ± 21 g fat (1.3 ± 0.3 g·kg<sup>−1</sup>). Subjects were accurate at 35.71% when asked which treatment they believed they were consuming.</p></sec></sec><sec sec-type="discussion" disp-level="1" id="s0009"><label>4.</label><title>Discussion</title><p>The primary finding of this study was that three consecutive nights of pre-sleep ingestion of CAS, ALA, or CHO did not impair objective or subjective sleep or recovery measures compared with PLA in NCAA Division I female athletes. These results indicate that pre-sleep feeding (PSF) of 40 g of ALA, CAS, or CHO does not alter objective sleep quantity in elite female athletes. Similarly, subjective outcomes, such as perceived sleep quality, sleep onset latency, and next-morning recovery, remained unchanged. Taken together, this suggests that in these elite female athletes, eating a small bolus of CHO or protein (160 Kcals) before bed, regardless of macronutrient type, did not affect their sleep or how they felt upon waking.</p><p>Our findings align with previous reports indicating that protein ingestion before sleep does not impact sleep quality or quantity. In 2018, Trommelen and colleagues reported no differences in sleep time, sleep onset latency, sleep duration, sleep efficiency, or wake bouts following pre-sleep ingestion of a 30 g placebo, protein, or protein + 2 g of free Leucine in 36 healthy, recreationally active young men [<xref rid="cit0035" ref-type="bibr">35</xref>]. More recently, Greenwalt et al. (2023) reported that higher pre-sleep energy and protein intake across a competitive season was not associated with decrements in sleep quality or recovery in NCAA Division I female soccer players, reinforcing the practical applicability of PSF in team-sport settings [<xref rid="cit0022" ref-type="bibr">22</xref>]. Collectively, these data help counter the common notion that eating before bed is disruptive to sleep, in both quality and quantity, and performance; rather, they suggest that context is critical, including nutrient type, dose, and population.</p><p>The present study adds to the growing, yet mixed, body of evidence on <italic toggle="yes">α</italic>-lactalbumin (ALA) and sleep. ALA, standardized to approximately 43% of the protein formulation in the current intervention, contains a higher tryptophan fraction than other dairy proteins and has been proposed to enhance serotonin and melatonin synthesis, thereby improving sleep onset and quality [<xref rid="cit0021" ref-type="bibr">21</xref>]. Two studies in elite female rugby players reported modest but significant benefits with a ~93% ALA isolate [<xref rid="cit0024" ref-type="bibr">24</xref>,<xref rid="cit0025" ref-type="bibr">25</xref>]. Miles et al. observed improved sleep efficiency (+2.9%), reduced sleep-onset latency (−7.4 min), and enhanced next-day reaction time following evening ALA ingestion compared with casein [<xref rid="cit0025" ref-type="bibr">25</xref>]. Gratwicke et al. similarly found increases in total sleep time (+18 min) and subjective sleep quality after three weeks of nightly ALA supplementation during competition [<xref rid="cit0024" ref-type="bibr">24</xref>]. In contrast, more recent trials using lower ALA concentrations or different dosing strategies have not demonstrated measurable effects. Barnard et al. reported no differences in total sleep time, sleep efficiency, or next-morning performance between ALA, casein, or placebo in trained athletes with sleep complaints, while other field data in team-sport athletes show comparable null results when ALA is consumed at lower relative purity [<xref rid="cit0026" ref-type="bibr">26</xref>]. Together, these findings suggest that both ALA concentration and baseline sleep status may determine responsiveness, with higher-purity (∼93%) formulations showing modest benefits in sleep-compromised athletes, whereas the 43% ALA used in the present study did not affect sleep or recovery, as determined by SE and HRV; likely due to the well-established rest and recovery strategies of Division I female athletes.</p><p>Carbohydrate ingestion before sleep has previously been associated with shortened sleep-onset latency, particularly when consumed approximately four hours before bedtime [<xref rid="cit0007" ref-type="bibr">7</xref>,<xref rid="cit0008" ref-type="bibr">8</xref>], though findings in athletes are inconsistent [<xref rid="cit0009" ref-type="bibr">9</xref>,<xref rid="cit0011" ref-type="bibr">11</xref>]. In the current study, SOL did not differ between CHO and PLA, suggesting that 40 g of pre-sleep carbohydrate intake neither improved nor impaired sleep in already well-trained, habitually monitored athletes. Thus, while carbohydrate may improve sleep onset latency in certain populations or conditions, our data do not support a consistent ergogenic or sleep-promoting role in elite female athletes.</p><p>A major strength of this study is its randomized, double-blinded, crossover design, which allowed each participant to serve as her own control, thereby reducing interindividual variability. The use of validated wearable technology provided continuous, non-invasive assessment of sleep and recovery in a naturalistic environment, reflecting real-world athlete behaviors. Moreover, including both objective and subjective outcomes provides a more comprehensive view of how PSF may influence sleep. However, several limitations should be acknowledged. Importantly, the adhesion of the CMG devices was affected by various sports activities in a majority of participants, leaving us with a sub-sample of six participants for CMG data analysis, thereby limiting the strength of conclusions drawn regarding nocturnal glucose responses. The intervention was short in duration (three nights per treatment), limiting conclusions about chronic adaptation. Participants were healthy athletes without reported sleep disorders, which may limit generalizability to athletes with poor sleep quality or clinical populations. In addition, these athletes are on elite collegiate teams and have performance staff that may already have in place ideal sleep protocols. Of note, athletes reported an average daily energy intake (excluding supplements) of 2,040 ± 463 kcal. This is likely underreporting, a lack of energy intake, or both. This might override other physiological outcomes measured. Finally, while wearables provide ecologically valid data [<xref rid="cit0036" ref-type="bibr">36</xref>,<xref rid="cit0037" ref-type="bibr">37</xref>], they are not as precise as polysomnography (PSG), the gold standard for sleep assessment.</p><p>Future studies should extend these findings by testing longer interventions, examining athletes with baseline sleep difficulties, and incorporating gold-standard PSG alongside validated wearables. Additional work is also needed to explore sex-specific responses to PSF, given hormonal influences on sleep architecture and autonomic regulation across the menstrual cycle [<xref rid="cit0031" ref-type="bibr">31</xref>]. In addition, there is no data indicating a specific caloric load at which pre-sleep feeding shifts from beneficial to detrimental. Nor do we know much about the quality of foods eaten before bed (rather than the quantity).</p></sec><sec sec-type="conclusions" disp-level="1" id="s0010"><label>5.</label><title>Conclusion</title><p>From a practical perspective, the absence of negative effects of pre-sleep nutrition on sleep is meaningful. Athletes frequently struggle to meet daily energy and protein requirements, particularly during heavy training or competition periods. PSF provides a strategic window to deliver additional nutrients without fear of disrupting sleep, aligning with established principles of nutrient timing in athletes [<xref rid="cit0038" ref-type="bibr">38</xref>]. In the present study, none of the treatments (CAS, ALA, CHO, or PLA) differed in either objective or subjective outcomes, indicating that pre-sleep ingestion of any macronutrient type - protein, carbohydrate, or placebo - did not impair sleep or recovery. This finding reinforces the practical takeaway that late-evening nutrient intake can be safely included within an athlete’s routine. Although ALA and CAS did not confer unique advantages over CHO or PLA in our cohort, previous work has shown that pre-sleep protein ingestion can support overnight MPS, enhance muscle recovery, and contribute to performance adaptations when practiced consistently [<xref rid="cit0013" ref-type="bibr">13–15,34</xref>]. It is also possible that participants’ habitual protein intake of 1.7 g·kg<sup>−1</sup>·day<sup>−1</sup> reduced the likelihood of observing additional benefits from the 40 g pre-sleep protein dose. However, any potential impact on sleep quality would still have been detected if present. Collectively, these observations suggest that while PSF may not acutely enhance sleep outcomes, protein-based PSF strategies remain as viable options for athletes seeking to optimize daily caloric and protein intake.</p></sec></body><back><sec sec-type="COI-statement" disp-level="1" id="s0011"><title>Disclosure statement</title><p>MJO serves as a non-paid member of the International Protein Board.</p></sec><ref-list><title>References</title><ref id="cit0001"><label>[1]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Fullagar</surname>
+<given-names>HHK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skorski</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duffield</surname>
+<given-names>R</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Sleep and athletic performance: the effects of sleep loss on exercise performance, and physiological and cognitive responses to exercise</article-title>. <source>Sports Med</source>. <year>2015</year>;<volume>45</volume>:<fpage>161</fpage>–<lpage>186</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s40279-014-0260-0</pub-id>
+<pub-id pub-id-type="pmid">25315456</pub-id></mixed-citation></ref><ref id="cit0002"><label>[2]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Walsh</surname>
+<given-names>NP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halson</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sargent</surname>
+<given-names>C</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Sleep and the athlete: narrative review and 2021 expert consensus recommendations</article-title>. <source>Br J Sports Med</source>. <year>2020</year>;<volume>55</volume>:<fpage>2020</fpage>–<lpage>102025</lpage>. doi: <pub-id pub-id-type="doi">10.1136/bjsports-2020-102025</pub-id>
+<pub-id pub-id-type="pmid">33144349</pub-id></mixed-citation></ref><ref id="cit0003"><label>[3]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lastella</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roach</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halson</surname>
+<given-names>SL</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Sleep/wake behaviours of elite athletes from individual and team sports</article-title>. <source>Eur J Sport Sci</source>. <year>2015</year>;<volume>15</volume>:<fpage>94</fpage>–<lpage>100</lpage>. doi: <pub-id pub-id-type="doi">10.1080/17461391.2014.932016</pub-id>
+<pub-id pub-id-type="pmid">24993935</pub-id></mixed-citation></ref><ref id="cit0004"><label>[4]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hamlin</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deuchrass</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olsen</surname>
+<given-names>PD</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>The effect of sleep quality and quantity on athlete’s health and perceived training quality</article-title>. <source>Front Sports Act Living</source>. <year>2021</year>;<volume>3</volume>:<elocation-id>705650</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fspor.2021.705650</pub-id>
+<pub-id pub-id-type="pmcid">PMC8461238</pub-id><pub-id pub-id-type="pmid">34568820</pub-id></mixed-citation></ref><ref id="cit0005"><label>[5]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sargent</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lastella</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halson</surname>
+<given-names>SL</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>How much sleep does an elite athlete need?</article-title>
+<source>Int J Sports Physiol Perform</source>. <year>2021</year>;<volume>16</volume>:<fpage>1746</fpage>–<lpage>1757</lpage>. doi: <pub-id pub-id-type="doi">10.1123/ijspp.2020-0896</pub-id>
+<pub-id pub-id-type="pmid">34021090</pub-id></mixed-citation></ref><ref id="cit0006"><label>[6]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kirschen</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hale</surname>
+<given-names>L</given-names>
+</string-name>
+</person-group>. <article-title>The impact of sleep duration on performance among competitive athletes</article-title>. <source>Clin J Sport Med</source>. <year>2020</year>;<volume>30</volume>(<issue>5</issue>):<fpage>503</fpage>–<lpage>512</lpage>. Publish Ahead of Print:NA. doi: <pub-id pub-id-type="doi">10.1097/jsm.0000000000000622</pub-id>
+<pub-id pub-id-type="pmid">29944513</pub-id></mixed-citation></ref><ref id="cit0007"><label>[7]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Afaghi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O’Connor</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chow</surname>
+<given-names>CM</given-names>
+</string-name>
+</person-group>. <article-title>High-glycemic-index carbohydrate meals shorten sleep onset</article-title>. <source>AJCN</source>. <year>2007</year>;<volume>85</volume>(<issue>2</issue>):<fpage>426</fpage>–<lpage>430</lpage>. doi: <pub-id pub-id-type="doi">10.1093/ajcn/85.2.426</pub-id>
+<pub-id pub-id-type="pmid">17284739</pub-id></mixed-citation></ref><ref id="cit0008"><label>[8]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Vlahoyiannis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aphamis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andreou</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Effects of high vs. Low glycemic index of post-exercise meals on sleep and exercise performance: a randomized, double-blind, counterbalanced polysomnographic study</article-title>. <source>Nutrients</source>. <year>2018</year>;<volume>10</volume>:<fpage>1795</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nu10111795</pub-id>
+<pub-id pub-id-type="pmcid">PMC6267571</pub-id><pub-id pub-id-type="pmid">30453682</pub-id></mixed-citation></ref><ref id="cit0009"><label>[9]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Daniel</surname>
+<given-names>NVS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zimberg</surname>
+<given-names>IZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Estadella</surname>
+<given-names>D</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Effect of the intake of high or low glycemic index high carbohydrate-meals on athletes’ sleep quality in pre-game nights</article-title>. <source>An da Acad Bras Ciências</source>. <year>2019</year>;<volume>91</volume>:<elocation-id>e20180107</elocation-id>. doi: <pub-id pub-id-type="doi">10.1590/0001-3765201920180107</pub-id>
+<pub-id pub-id-type="pmid">30994759</pub-id></mixed-citation></ref><ref id="cit0010"><label>[10]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Falkenberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisbett</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lastella</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Nutrient intake, meal timing and sleep in elite Male Australian football players</article-title>. <source>J Sci Med Sport</source>. <year>2021</year>;<volume>24</volume>:<fpage>7</fpage>–<lpage>12</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jsams.2020.06.011</pub-id>
+<pub-id pub-id-type="pmid">32624442</pub-id></mixed-citation></ref><ref id="cit0011"><label>[11]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Barnard</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roberts</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lastella</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>The impact of dietary factors on the sleep of athletically trained populations: a systematic review</article-title>. <source>Nutrients</source>. <year>2022</year>;<volume>14</volume>:<fpage>3271</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nu14163271</pub-id>
+<pub-id pub-id-type="pmcid">PMC9414564</pub-id><pub-id pub-id-type="pmid">36014779</pub-id></mixed-citation></ref><ref id="cit0012"><label>[12]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Burke</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hawley</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wong</surname>
+<given-names>SHS</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Carbohydrates for training and competition</article-title>. <source>J Sports Sci</source>. <year>2011</year>;<volume>29</volume>:<fpage>S17</fpage>–<lpage>27</lpage>. doi: <pub-id pub-id-type="doi">10.1080/02640414.2011.585473</pub-id>
+<pub-id pub-id-type="pmid">21660838</pub-id></mixed-citation></ref><ref id="cit0013"><label>[13]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Saracino</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saylor</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanna</surname>
+<given-names>BR</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Effects of pre-sleep whey vs. Plant-based protein consumption on muscle recovery following damaging morning exercise</article-title>. <source>Nutrients</source>. <year>2020</year>;<volume>12</volume>:<fpage>2049</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nu12072049</pub-id>
+<pub-id pub-id-type="pmcid">PMC7400837</pub-id><pub-id pub-id-type="pmid">32664290</pub-id></mixed-citation></ref><ref id="cit0014"><label>[14]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Holwerda</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trommelen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kouw</surname>
+<given-names>IWK</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Exercise plus presleep protein ingestion increases overnight muscle connective tissue protein synthesis rates in healthy older men</article-title>. <source>Int J Sport Nutr Exerc Metab</source>. <year>2021</year>;<volume>31</volume>:<fpage>217</fpage>–<lpage>226</lpage>. doi: <pub-id pub-id-type="doi">10.1123/ijsnem.2020-0222</pub-id>
+<pub-id pub-id-type="pmid">33588378</pub-id></mixed-citation></ref><ref id="cit0015"><label>[15]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Abbott</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brett</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cockburn</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Presleep casein protein ingestion: acceleration of functional recovery in professional soccer players</article-title>. <source>Int J Sports Physiol Perform</source>. <year>2019</year>;<volume>14</volume>:<fpage>385</fpage>–<lpage>391</lpage>. doi: <pub-id pub-id-type="doi">10.1123/ijspp.2018-0385</pub-id>
+<pub-id pub-id-type="pmid">30204517</pub-id></mixed-citation></ref><ref id="cit0016"><label>[16]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Res</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pennings</surname>
+<given-names>B</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Protein ingestion before sleep improves postexercise overnight recovery</article-title>. <source>Med Sci Sports Exerc</source>. <year>2012</year>;<volume>44</volume>:<fpage>1560</fpage>–<lpage>1569</lpage>. doi: <pub-id pub-id-type="doi">10.1249/mss.0b013e31824cc363</pub-id>
+<pub-id pub-id-type="pmid">22330017</pub-id></mixed-citation></ref><ref id="cit0017"><label>[17]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Trommelen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loon</surname>
+<given-names>LJC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van</surname>
+</string-name>
+</person-group>. <article-title>Pre-sleep protein ingestion to improve the skeletal muscle adaptive response to exercise training</article-title>. <source>Nutrients</source>. <year>2016</year>;<volume>8</volume>:<fpage>763</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nu8120763</pub-id>
+<pub-id pub-id-type="pmcid">PMC5188418</pub-id><pub-id pub-id-type="pmid">27916799</pub-id></mixed-citation></ref><ref id="cit0018"><label>[18]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Holwerda</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kouw</surname>
+<given-names>IW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trommelen</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Physical activity performed in the evening increases the overnight muscle protein synthetic response to presleep protein ingestion in older men 1–3</article-title>. <source>J Nutr</source>. <year>2016</year>;<volume>146</volume>:<fpage>1307</fpage>–<lpage>1314</lpage>. doi: <pub-id pub-id-type="doi">10.3945/jn.116.230086</pub-id>
+<pub-id pub-id-type="pmid">27281811</pub-id></mixed-citation></ref><ref id="cit0019"><label>[19]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Madzima</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panton</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fretti</surname>
+<given-names>SK</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Night-time consumption of protein or carbohydrate results in increased morning resting energy expenditure in active college-aged men</article-title>. <source>Br J Nutr</source>. <year>2014</year>;<volume>111</volume>:<fpage>71</fpage>–<lpage>77</lpage>. doi: <pub-id pub-id-type="doi">10.1017/s000711451300192x</pub-id>
+<pub-id pub-id-type="pmid">23768612</pub-id></mixed-citation></ref><ref id="cit0020"><label>[20]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ormsbee</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorman</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>EA</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Nighttime feeding likely alters morning metabolism but not exercise performance in female athletes</article-title>. <source>Appl Physiol Nutr Metab</source>. <year>2016</year>;<volume>41</volume>:<fpage>719</fpage>–<lpage>727</lpage>. doi: <pub-id pub-id-type="doi">10.1139/apnm-2015-0526</pub-id>
+<pub-id pub-id-type="pmid">27329516</pub-id></mixed-citation></ref><ref id="cit0021"><label>[21]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Leyh</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willingham</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baur</surname>
+<given-names>DA</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Pre-sleep protein in casein supplement or whole-food form has no impact on resting energy expenditure or hunger in women</article-title>. <source>Br J Nutr</source>. <year>2018</year>;<volume>120</volume>:<fpage>988</fpage>–<lpage>994</lpage>. doi: <pub-id pub-id-type="doi">10.1017/s0007114518002416</pub-id>
+<pub-id pub-id-type="pmid">30249314</pub-id></mixed-citation></ref><ref id="cit0022"><label>[22]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Greenwalt</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Angeles</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vukovich</surname>
+<given-names>MD</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Pre-sleep feeding, sleep quality, and markers of recovery in division I NCAA female soccer players</article-title>. <source>J Int Soc Sports Nutr</source>. <year>2023</year>;<volume>20</volume>:<elocation-id>2236055</elocation-id>. doi: <pub-id pub-id-type="doi">10.1080/15502783.2023.2236055</pub-id>
+<pub-id pub-id-type="pmcid">PMC10360998</pub-id><pub-id pub-id-type="pmid">37470428</pub-id></mixed-citation></ref><ref id="cit0023"><label>[23]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Layman</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lönnerdal</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernstrom</surname>
+<given-names>JD</given-names>
+</string-name>
+</person-group>. <article-title>Applications for α-lactalbumin in human nutrition</article-title>. <source>Nutr Rev</source>. <year>2018</year>;<volume>76</volume>:<fpage>444</fpage>–<lpage>460</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nutrit/nuy004</pub-id>
+<pub-id pub-id-type="pmcid">PMC5934683</pub-id><pub-id pub-id-type="pmid">29617841</pub-id></mixed-citation></ref><ref id="cit0024"><label>[24]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gratwicke</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miles</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>B</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>The effect of α-lactalbumin consumption on sleep quality and quantity in female rugby union athletes: a field-based study</article-title>. <source>Biol Sport</source>. <year>2023</year>;<volume>40</volume>:<fpage>449</fpage>–<lpage>455</lpage>. doi: <pub-id pub-id-type="doi">10.5114/biolsport.2023.116002</pub-id>
+<pub-id pub-id-type="pmcid">PMC10108771</pub-id><pub-id pub-id-type="pmid">37077794</pub-id></mixed-citation></ref><ref id="cit0025"><label>[25]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Miles</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fowler</surname>
+<given-names>PM</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>ɑ-Lactalbumin improves sleep and recovery after simulated evening competition in female athletes</article-title>. <source>Med Sci Sports Exerc</source>. <year>2021</year>;<volume>53</volume>:<fpage>2618</fpage>–<lpage>2627</lpage>. doi: <pub-id pub-id-type="doi">10.1249/mss.0000000000002743</pub-id>
+<pub-id pub-id-type="pmid">34649262</pub-id></mixed-citation></ref><ref id="cit0026"><label>[26]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Barnard</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roberts</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lastella</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Pre-sleep alpha-lactalbumin supplementation does not improve the habitual sleep and performance of sportspeople with sleep difficulties</article-title>. <source>Nutrients</source>. <year>2025</year>;<volume>17</volume>:<fpage>1196</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nu17071196</pub-id>
+<pub-id pub-id-type="pmcid">PMC11990130</pub-id><pub-id pub-id-type="pmid">40218954</pub-id></mixed-citation></ref><ref id="cit0027"><label>[27]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Doherty</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madigan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nevill</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>The impact of kiwifruit consumption on the sleep and recovery of elite athletes</article-title>. <source>Nutrients</source>. <year>2023</year>;<volume>15</volume>:<fpage>2274</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nu15102274</pub-id>
+<pub-id pub-id-type="pmcid">PMC10220871</pub-id><pub-id pub-id-type="pmid">37242157</pub-id></mixed-citation></ref><ref id="cit0028"><label>[28]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lan</surname>
+<given-names>Y</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Four novel sleep-promoting peptides screened and identified from bovine casein hydrolysates using a patch-clamp model in vitro and caenorhabditis elegans in vivo</article-title>. <source>Food Funct</source>. <year>2023</year>;<volume>14</volume>:<fpage>6142</fpage>–<lpage>6156</lpage>. doi: <pub-id pub-id-type="doi">10.1039/d3fo01246h</pub-id>
+<pub-id pub-id-type="pmid">37334648</pub-id></mixed-citation></ref><ref id="cit0029"><label>[29]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>A double-blind, randomized, placebo-controlled crossover clinical study of the effects of Alpha-s1 casein hydrolysate on sleep disturbance</article-title>. <source>Nutrients</source>. <year>2019</year>;<volume>11</volume>:<fpage>1466</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nu11071466</pub-id>
+<pub-id pub-id-type="pmcid">PMC6682925</pub-id><pub-id pub-id-type="pmid">31252661</pub-id></mixed-citation></ref><ref id="cit0030"><label>[30]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Thiagarajah</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chee</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sit</surname>
+<given-names>NW</given-names>
+</string-name>
+</person-group>. <article-title>Effect of Alpha-S1-Casein tryptic hydrolysate and L-Theanine on poor sleep quality: a double blind, randomized placebo-controlled crossover trial</article-title>. <source>Nutrients</source>. <year>2022</year>;<volume>14</volume>:<fpage>652</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nu14030652</pub-id>
+<pub-id pub-id-type="pmcid">PMC8838692</pub-id><pub-id pub-id-type="pmid">35277011</pub-id></mixed-citation></ref><ref id="cit0031"><label>[31]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Zambotti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de</surname>
+</string-name>, <string-name name-style="western">
+<surname>Nicholas</surname>
+<given-names>CL</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Autonomic regulation across phases of the menstrual cycle and sleep stages in women with premenstrual syndrome and healthy controls</article-title>. <source>Psychoneuroendocrinology</source>. <year>2013</year>;<volume>38</volume>:<fpage>2618</fpage>–<lpage>2627</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.psyneuen.2013.06.005</pub-id>
+<pub-id pub-id-type="pmcid">PMC3812396</pub-id><pub-id pub-id-type="pmid">23850226</pub-id></mixed-citation></ref><ref id="cit0032"><label>[32]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Nazem</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ackerman</surname>
+<given-names>KE</given-names>
+</string-name>
+</person-group>. <article-title>The female athlete triad</article-title>. <source>Sports Health A Multidiscip Approach</source>. <year>2012</year>;<volume>4</volume>:<fpage>302</fpage>–<lpage>311</lpage>. doi: <pub-id pub-id-type="doi">10.1177/1941738112439685</pub-id>
+<pub-id pub-id-type="pmcid">PMC3435916</pub-id><pub-id pub-id-type="pmid">23016101</pub-id></mixed-citation></ref><ref id="cit0033"><label>[33]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>McKay</surname>
+<given-names>AKA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stellingwerff</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>ES</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Defining training and performance caliber: a participant classification framework</article-title>. <source>Int J Sports Physiol Perform</source>. <year>2022</year>;<volume>17</volume>:<fpage>317</fpage>–<lpage>331</lpage>. doi: <pub-id pub-id-type="doi">10.1123/ijspp.2021-0451</pub-id>
+<pub-id pub-id-type="pmid">34965513</pub-id></mixed-citation></ref><ref id="cit0034"><label>[34]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Mountjoy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sundgot-Borgen</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burke</surname>
+<given-names>LM</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>IOC consensus statement on relative energy deficiency in sport (RED-S): 2018 update</article-title>. <source>Br J Sports Med</source>. <year>2018</year>;<volume>52</volume>:<fpage>687</fpage>–<lpage>697</lpage>. doi: <pub-id pub-id-type="doi">10.1136/bjsports-2018-099193</pub-id>
+<pub-id pub-id-type="pmid">29773536</pub-id></mixed-citation></ref><ref id="cit0035"><label>[35]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Trommelen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kouw</surname>
+<given-names>IWK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holwerda</surname>
+<given-names>AM</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Presleep dietary protein-derived amino acids are incorporated in myofibrillar protein during postexercise overnight recovery</article-title>. <source>Am J Physiol-Endocrinol Metab</source>. <year>2018</year>;<volume>314</volume>:<fpage>E457</fpage>–<lpage>67</lpage>. doi: <pub-id pub-id-type="doi">10.1152/ajpendo.00273.2016</pub-id>
+<pub-id pub-id-type="pmid">28536184</pub-id></mixed-citation></ref><ref id="cit0036"><label>[36]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Miller</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lastella</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scanlan</surname>
+<given-names>AT</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>A validation study of the WHOOP strap against polysomnography to assess sleep</article-title>. <source>J Sports Sci</source>. <year>2020</year>;<volume>38</volume>:<fpage>2631</fpage>–<lpage>2636</lpage>. doi: <pub-id pub-id-type="doi">10.1080/02640414.2020.1797448</pub-id>
+<pub-id pub-id-type="pmid">32713257</pub-id></mixed-citation></ref><ref id="cit0037"><label>[37]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Miller</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sargent</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roach</surname>
+<given-names>GD</given-names>
+</string-name>
+</person-group>. <article-title>A validation of six wearable devices for estimating sleep, heart rate and heart rate variability in healthy adults</article-title>. <source>Senso</source>. <year>2022</year>;<volume>22</volume>:<fpage>6317</fpage>. doi: <pub-id pub-id-type="doi">10.3390/s22166317</pub-id>
+<pub-id pub-id-type="pmcid">PMC9412437</pub-id><pub-id pub-id-type="pmid">36016077</pub-id></mixed-citation></ref><ref id="cit0038"><label>[38]</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kerksick</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arent</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schoenfeld</surname>
+<given-names>BJ</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>International society of sports nutrition position stand: nutrient timing</article-title>. <source>J Int Soc Sports Nutr</source>. <year>2017</year>;<volume>14</volume>:<fpage>33</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12970-017-0189-4</pub-id>
+<pub-id pub-id-type="pmcid">PMC5596471</pub-id><pub-id pub-id-type="pmid">28919842</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,7 +1,7 @@
 [project]
 name = "agentops-rag-harness"
 version = "0.1.0"
-description = "Add your description here"
+description = "Multimodal clinical-trial RAG agent with MCP retrieval tools, an A2A reviewer agent and OpenTelemetry tracing"
 readme = "README.md"
 authors = [
     { name = "Koduri Mahesh Bhushan Chowdary", email = "mkoduri73@gmail.com" }
@@ -36,6 +36,7 @@ agentops = "agentops.cli:main"
 
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
 testpaths = ["tests"]
 
 [dependency-groups]

@@ -24,19 +24,19 @@ async def test_mcp_client_reaches_retrieval_tools_over_stdio(index_dir):
 
 
 SOURCES = [
-    {"chunk_id": "D#1", "text": "Acarbose reduced the salivary amylase activity by 40% compared with placebo."},
-    {"chunk_id": "D#2", "text": "Twelve healthy adults completed four crossover trials."},
+    {"chunk_id": "D#structure-1", "text": "Acarbose reduced the salivary amylase activity by 40% compared with placebo."},
+    {"chunk_id": "D#structure-2", "text": "Twelve healthy adults completed four crossover trials."},
 ]
 
 
 def test_review_logic():
-    ok = review("q", "Acarbose reduced salivary amylase activity by 40% [D#1]. Twelve adults completed the trials [D#2].", SOURCES)
+    ok = review("q", "Acarbose reduced salivary amylase activity by 40% [D#structure-1]. Twelve adults completed the trials [D#structure-2].", SOURCES)
     assert ok["approved"] and ok["score"] == 1.0
     uncited = review("q", "Acarbose reduced salivary amylase activity by 40%.", SOURCES)
     assert not uncited["approved"] and "uncited" in uncited["issues"][0]
-    unknown = review("q", "Acarbose reduced amylase [D#9].", SOURCES)
+    unknown = review("q", "Acarbose reduced amylase [D#structure-9].", SOURCES)
     assert not unknown["approved"] and "unknown" in unknown["issues"][0]
-    unsupported = review("q", "Metformin doubled insulin sensitivity in elderly patients [D#2].", SOURCES)
+    unsupported = review("q", "Metformin doubled insulin sensitivity in elderly patients [D#structure-2].", SOURCES)
     assert not unsupported["approved"]
 
 
@@ -47,9 +47,9 @@ async def test_reviewer_over_a2a_http(reviewer_url):
         assert card["skills"][0]["id"] == "review_grounding"
     client = ReviewerClient(reviewer_url)
     try:
-        verdict = await client.review("q", "Acarbose reduced salivary amylase activity by 40% [D#1].", SOURCES)
+        verdict = await client.review("q", "Acarbose reduced salivary amylase activity by 40% [D#structure-1].", SOURCES)
         assert verdict["approved"] is True
-        verdict = await client.review("q", "Something unrelated entirely here [D#7].", SOURCES)
+        verdict = await client.review("q", "Something unrelated entirely here [D#structure-7].", SOURCES)
         assert verdict["approved"] is False
     finally:
         await client.close()

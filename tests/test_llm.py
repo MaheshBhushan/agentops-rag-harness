@@ -14,7 +14,7 @@ CHUNKS = [
 def test_offline_answer_cites_sources():
     msgs = ANSWER.format_messages(sources=format_sources(CHUNKS), question="How much did acarbose lower glucose AUC?")
     c = OfflineProvider().complete(msgs)
-    assert c.text.endswith("[P1#structure-3]") and "31%" in c.text
+    assert c.text.endswith("[P1#structure-3].") and "31%" in c.text
     assert c.input_tokens > 50 and c.output_tokens > 5 and c.token_source == "estimated"
 
 

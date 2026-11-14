@@ -27,7 +27,7 @@ from starlette.applications import Starlette
 
 from .llm import NOT_FOUND, SENT, content_words
 
-CITE = re.compile(r"\[([^\[\]]+?)\]")
+CITE = re.compile(r"\[([A-Za-z0-9_.\-]+#[a-z]+-\d+)\]")
 SUPPORT_THRESHOLD = 0.6
 
 

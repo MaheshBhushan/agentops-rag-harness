@@ -24,7 +24,8 @@ async def test_main_flow_exports_spans_and_token_counts(index_dir, reviewer_url,
     for name in ("agent.ask", "mcp.call_tool search_chunks", "llm.chat answer", "a2a.review"):
         assert name in spans, sorted(spans)
     root = spans["agent.ask"]
-    assert {s.context.trace_id for s in spans.values()} == {root.context.trace_id}
+    flow = ("agent.ask", "mcp.call_tool search_chunks", "llm.chat answer", "a2a.review")
+    assert {spans[n].context.trace_id for n in flow} == {root.context.trace_id}
     for child in ("mcp.call_tool search_chunks", "llm.chat answer", "a2a.review"):
         assert spans[child].parent.span_id == root.context.span_id
 

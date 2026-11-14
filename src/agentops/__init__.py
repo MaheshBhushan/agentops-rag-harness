@@ -1,2 +1,1 @@
-def hello() -> str:
-    return "Hello from agentops-rag-harness!"
+"""AgentOps RAG harness: multimodal clinical-trial RAG with MCP retrieval and an A2A reviewer."""

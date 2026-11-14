@@ -1,0 +1,33 @@
+{
+  "synthetic": {
+    "questions": 15,
+    "by_modality": {
+      "figure": 3,
+      "table": 3,
+      "text": 9
+    }
+  },
+  "retrieval": {
+    "fixed": {
+      "recall@1": 0.3333,
+      "recall@5": 0.8,
+      "mrr@10": 0.5873
+    },
+    "recursive": {
+      "recall@1": 0.2667,
+      "recall@5": 0.9333,
+      "mrr@10": 0.5251
+    },
+    "structure": {
+      "recall@1": 0.1333,
+      "recall@5": 0.8667,
+      "mrr@10": 0.4506
+    }
+  },
+  "agent": {
+    "answered_rate": 1.0,
+    "citation_validity": 1.0,
+    "cites_evidence_rate": 0.8,
+    "reviewer_approval_rate": 1.0
+  }
+}

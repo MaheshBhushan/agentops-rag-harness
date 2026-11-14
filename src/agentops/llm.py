@@ -21,7 +21,7 @@ from langchain_core.messages import BaseMessage
 
 TOKEN = re.compile(r"\w+|[^\w\s]")
 WORD = re.compile(r"[A-Za-z][A-Za-z0-9\-]{2,}|\d+(?:\.\d+)?%?")
-SENT = re.compile(r"(?<=[.!?])\s+(?=[A-Z(\[])")
+SENT = re.compile(r"(?<=[.!?])\s+(?=[A-Z(])")
 SOURCE = re.compile(r"^\[(?P<id>[^\]]+)\] \((?P<meta>[^)]*)\) (?P<text>.*)$", re.M)
 STOP = frozenset(
     """a an and are as at be been but by can could did do does for from had has have how in into is it its
@@ -89,8 +89,7 @@ class OfflineProvider:
         picked = [s for s in scored if -s[0] >= max(1, best_overlap // 2)][:2]
         out = []
         for _, _, _, sent, cid in picked:
-            sent = sent.rstrip(".") + "."
-            out.append(f"{sent} [{cid}]")
+            out.append(f"{sent.rstrip('.')} [{cid}].")
         return " ".join(out)
 
     @staticmethod
